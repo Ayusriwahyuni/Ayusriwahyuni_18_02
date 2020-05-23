@@ -1,0 +1,22 @@
+// Menentukan sebuah angka bilangan prima atau tidak
+
+start
+input (bil)
+ if (bil=2) then
+     prima ? true
+ else
+     for i ? 2 to bil-1 do
+       if (bil mod i = 0) then
+          prima ? false
+          exit for // keluar dari looping
+        else
+          prima ? true
+       endif
+     endfor
+  endif
+  if (prima) then // prima=true
+     output ("Bilangan Prima")
+  else
+     output ("Bukan Bilangan Prima")
+  endif
+  end

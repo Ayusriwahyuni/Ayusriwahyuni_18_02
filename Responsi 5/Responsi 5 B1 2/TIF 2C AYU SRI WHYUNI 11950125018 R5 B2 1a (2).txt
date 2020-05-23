@@ -1,0 +1,12 @@
+// Menentukan nilai tertinggi antara variabel x,y, dan z
+
+start
+n, bilangan, max : integer
+    max = 0
+Deskripsi
+    read(n)
+    for each n
+         read(bilangan)
+         if bilangan > max then max = bilangan
+    write(max)
+end

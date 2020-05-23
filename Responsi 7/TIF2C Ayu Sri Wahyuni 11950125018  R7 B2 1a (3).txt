@@ -1,0 +1,14 @@
+// Algoritma Longest Common Subquence
+
+sequence S = empty
+i=0;
+ j=0;
+ while (i<m&&j<n)
+{
+	if (A[i]==B[j])
+	{
+	  add A[i] to end of S;
+	  i++;j++;
+	}
+	else if (L[i+1,j]>=L[i,j+1)i++;
+}

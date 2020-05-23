@@ -1,0 +1,6 @@
+// Algoritma menentukan nilai tertinggi antara variabel x dan y
+1. Mulai
+2. Masukkan nilai x dan y
+3. Setelah itu program akan membaca nilai terbesar dari 2 bilangan
+4. Cetak bilangan terbesar
+5. Selesai

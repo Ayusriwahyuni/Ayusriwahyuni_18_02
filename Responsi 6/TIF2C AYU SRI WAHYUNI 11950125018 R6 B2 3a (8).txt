@@ -1,0 +1,13 @@
+// Menghitung jumlah angka di dalam array
+
+Mulai
+input angka = [82, 12, 41, 38, 19, 26, 9, 48, 20, 55, 8, 32, 3]
+
+hasil = 0
+i = 0
+while i < panjang array
+    hasil += angka[i]
+    i++
+end while
+    print hasil
+Selesai

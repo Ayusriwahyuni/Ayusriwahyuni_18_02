@@ -1,0 +1,11 @@
+// Algoritma menentukan sebuah angka bilangan prima atau tidak
+1. Mulai
+2. Deklarasikan variabel i untuk iterasi, variabel bil untuk bilangan yang ingin ditentukan apakah bilangan prima atau bukan, dan variabel x.
+3. Masukkan bilangan yang ingin ditentukan apakah bilangan prima atau bukan dan nyatakan ke variabel bil
+4. Apabila bilangan yang dimasukkan tadi kurang dari atau sama dengan 0 maka cetak "Bukan Bilangan Prima". namun bila bilangan tersebut lebih dari 0 maka lakukan langkah 4 s/d 8 kemudian lanjutkan ke langkah 9.
+5. Isi variabel i dengan nilai 2.
+6. Selama nilai pada variabel i masih kurang dari nilai pada variabel bil, lakukan langkah 6 s/d 8.
+7. Hitung sisa hasil bagi tersebut sama dengan 0, cetak "Bukan Bilangan Prima" dan langsung ke langkah 10.
+8. Tambahkan nilai pada variabel i dengan 1.
+9. Cetak "Bilangan Prima"
+10. Selesai

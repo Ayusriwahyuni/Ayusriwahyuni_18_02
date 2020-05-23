@@ -1,0 +1,12 @@
+// Algoritma Kadane
+
+Angka = max_Subarray
+
+Write("Temukan nilai maksimal dari setiap subarray yang bersampingan")
+
+Read(float ('-inf')
+Read(current_sum = 0)
+
+Y = angka
+Read(kembalikan best_sum)
+end

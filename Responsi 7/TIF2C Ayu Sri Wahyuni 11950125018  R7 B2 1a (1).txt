@@ -1,0 +1,7 @@
+// Algoritma Eucledian
+
+prosedure Euclidean (input Va,Vb:integer,output PBB:integer)
+{
+Mencari PBB (Va,Vb)dengan syarat m dan n bilangan tak negatif dan Va>0
+Masukkan:Va dan Vb, Va>Vb, dan Va,Vb>0
+}

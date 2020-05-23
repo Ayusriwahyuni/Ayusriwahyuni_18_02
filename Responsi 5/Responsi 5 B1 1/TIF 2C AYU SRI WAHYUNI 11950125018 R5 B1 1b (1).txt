@@ -1,0 +1,12 @@
+// Algoritma menentukan nilai tertinggi antara variabel x,y dan z
+1. Mulai
+2. Inisialisasi bil 1,bil 2,bil 3 sebagai integer
+3. Baca bil 1.
+4. Baca bil 2.
+5. Baca bil 3.
+6. Jika bil1>bil2 dan bil1>bil3 maka kerjakan langkah 8, selain itu
+7. Jika bil2>bil1 dan bil2>bil3 maka kerjakan langkah 9, selain itu kerjakan langkah 10.
+8. Cetak "Bilangan Terbesar Bilangan Pertama".
+9. Cetak "Bilangan Terbesar Bilangan Kedua".
+10. Cetak "Bilangan Terbesar Bilangan Ketiga".
+11. Selesai 

@@ -1,0 +1,11 @@
+// Menentukan nilai tertinggi antara variabel x dan y
+
+Start
+masukan (x, y)
+tertinggi ? x
+JIKA tertinggi < y
+          tertinggi ? y
+AKHIR JIKA
+tampilkan(tertinggi)
+
+end

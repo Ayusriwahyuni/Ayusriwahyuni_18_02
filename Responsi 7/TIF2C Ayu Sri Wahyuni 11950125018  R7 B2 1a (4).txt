@@ -1,0 +1,19 @@
+// Algoritma Longest Increasing Subquence
+
+10 = integer A
+{5,2,9,7,1,6,8,3,10,4} = integer
+BatasAtas, BatasTengah, Bawah = integer
+
+Ditemukan = Boolean
+
+While = batas atas <= batas tengah
+
+If ((B[Bawah] == search)
+
+Else (B[Bawah] <= search)
+
+If(ditemukan)
+Write ("Angka : "+ search + "Data berada di urutan nomor " + Bawah)
+
+Else(tidak ditemukan)
+Write (("Angka :" + search + "Data tidak ketemu")

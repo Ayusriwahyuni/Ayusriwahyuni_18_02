@@ -1,0 +1,7 @@
+// Algoritma menentukan bilangan pembagi terkecil selain angka 1 dan 2
+1. Mulai
+2. Algoritma menerima masukan nilai a
+3. Kemudian melakukan proses pada nilai b=2
+4. Melakukan perulangan
+5. Mencetak b
+6. Selesai
